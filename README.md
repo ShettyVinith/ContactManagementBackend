@@ -32,7 +32,7 @@ This API allows users to **register**, **login**, and access **protected routes*
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/ShettyVinith/ContactManagementBackend.git
 cd your-repo-name
 ```
 
