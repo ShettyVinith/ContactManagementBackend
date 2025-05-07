@@ -34,6 +34,7 @@ This API allows users to **register**, **login**, and access **protected routes*
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
+```
 
 ## 📦 Installation & Usage
 
@@ -41,6 +42,7 @@ cd your-repo-name
 
 ```bash
 npm install
+```
 
 ### 3️⃣ Set up environment variables
 
@@ -50,11 +52,13 @@ Create a `.env` file in your project root with the following content:
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 ACCESS_TOKEN_SECRET=your_secure_secret_key
+```
 
 ### 4️⃣ Start the server
 
 ```bash
 npm run dev
+```
 
 Server will run at: http://localhost:5000
 
@@ -72,6 +76,7 @@ After logging in, include the JWT token in the **Authorization** header for prot
 
 ```http
 Authorization: Bearer <token>
+```
 
 ## 📸 Sample Request Payloads
 
@@ -83,6 +88,7 @@ Authorization: Bearer <token>
   "email": "john@example.com",
   "password": "securepassword"
 }
+```
 
 ### 📥 Login User
 
@@ -91,10 +97,9 @@ Authorization: Bearer <token>
   "email": "john@example.com",
   "password": "securepassword"
 }
+```
 
 ## 📄 License
 
 This project is open-source and free to use.
 
-📄 License
-This project is open-source and free to use.
