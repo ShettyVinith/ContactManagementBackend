@@ -36,7 +36,6 @@ git clone https://github.com/ShettyVinith/ContactManagementBackend.git
 cd your-repo-name
 ```
 
-## 📦 Installation & Usage
 
 ### 2️⃣ Install dependencies
 
