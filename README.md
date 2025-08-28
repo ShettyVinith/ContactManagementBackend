@@ -1,4 +1,4 @@
-# 📦 Node.js Express JWT Authentication API
+# 📦 Contact Management Backend
 
 A simple user authentication API built with **Node.js**, **Express**, **MongoDB**, **bcrypt**, and **JWT (JSON Web Token)**.  
 This API allows users to **register**, **login**, and access **protected routes** using token-based authentication.
